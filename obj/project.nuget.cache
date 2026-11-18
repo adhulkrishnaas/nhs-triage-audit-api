@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "QT2hGTGLHFE=",
+  "success": true,
+  "projectFilePath": "D:\\Job on the way\\Git\\nhs-triage-audit-api\\NhsTriageAuditApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adhul\\.nuget\\packages\\dapper\\2.1.89\\dapper.2.1.89.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\adhul\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MySqlConnector' 2.3.7 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "D:\\Job on the way\\Git\\nhs-triage-audit-api\\NhsTriageAuditApi.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Job on the way\\Git\\nhs-triage-audit-api\\NhsTriageAuditApi.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
