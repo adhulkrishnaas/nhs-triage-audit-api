@@ -7,7 +7,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:5173") // Replace with your frontend URL if different
+        policy.WithOrigins("http://localhost:5173","https://nhs-triage-app-cb247.web.app") // Replace with your frontend URL if different
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
